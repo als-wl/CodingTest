@@ -9,6 +9,5 @@ function solution(numer1, denom1, numer2, denom2) {
             break; 
         }
     }
-
     return [numer / common, denom / common];
 }
