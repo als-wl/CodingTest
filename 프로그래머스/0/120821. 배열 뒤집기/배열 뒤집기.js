@@ -1,4 +1,4 @@
 function solution(num_list) {
-    answer = num_list.reverse();
+    answer = []
     return answer;
 }
